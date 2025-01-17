@@ -1,0 +1,7 @@
+Id,Name,Formatted Price,Image URL,Page URL,Count In Stock
+"pr_1","pr_name_1",467.34,"https://vb-demo-store.com/image/cache/catalog/demo/pr_name_1.jpg","https://vb-demo-store.com/index.php?route=product/product&product_id=pr_1",90
+"pr_2","pr_name_2",567.34,"https://vb-demo-store.com/image/cache/catalog/demo/pr_name_2.jpg","https://vb-demo-store.com/index.php?route=product/product&product_id=pr_2",92
+"pr_3","pr_name_3",267.34,"https://vb-demo-store.com/image/cache/catalog/demo/pr_name_3.jpg","https://vb-demo-store.com/index.php?route=product/product&product_id=pr_3",43
+"pr_4","pr_name_4",167.34,"https://vb-demo-store.com/image/cache/catalog/demo/pr_name_4.jpg","https://vb-demo-store.com/index.php?route=product/product&product_id=pr_4",1900
+"pr_5","pr_name_5",967.34,"https://vb-demo-store.com/image/cache/catalog/demo/pr_name_5.jpg","https://vb-demo-store.com/index.php?route=product/product&product_id=pr_5",120
+"pr_6","pr_name_6",2267.34,"https://vb-demo-store.com/image/cache/catalog/demo/pr_name_5.jpg","https://vb-demo-store.com/index.php?route=product/product&product_id=pr_6",400
